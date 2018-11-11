@@ -38,5 +38,7 @@
     "automock": false,
     "clearMocks": true
   },
-  "dependencies": {}
+  "dependencies": {
+    "hap-nodejs": "^0.4.47"
+  }
 }
