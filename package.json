@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Footurama/ftrm-homekit#readme",
   "devDependencies": {
     "happiness": "^10.0.2",
-    "jest": "^23.1.0"
+    "jest": "^26.0.1"
   },
   "happiness": {
     "globals": [
