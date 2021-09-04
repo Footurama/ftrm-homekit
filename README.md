@@ -26,6 +26,8 @@ Configuration:
  * ```manufacturer```: The manufacturer's name.
  * ```model```: The model's name.
  * ```pin```: The paring pin. Must be in the format: ```/[0-9]{3}-[0-9]{2}-[0-9]{3}/```
+ * ```port```: Port number for the device to listen on. Default: generated using ```input```, ```output``` and ```displayName```.
+ * ```mac```: MAC address of the device. Default: generated using ```input```, ```output``` and ```displayName```.
 
 ## Example
 
